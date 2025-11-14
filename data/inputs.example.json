@@ -1,0 +1,8 @@
+{
+  "urls": [
+    "https://grandstage.a-rt.com/product/12345",
+    "https://grandstage.a-rt.com/product/67890"
+  ],
+  "maxPages": 10,
+  "concurrency": 3
+}
